@@ -1,0 +1,64 @@
+[3] 7:46:05 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[3] 7:46:05 PM: Log level: 4
+[3] 7:46:05 PM: Release: 15.0.0.836
+[3] 7:46:06 PM: No service discovery configured.
+[3] 7:46:06 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 7:46:06 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 7:46:06 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 7:46:06 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 7:46:06 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 7:46:06 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 7:46:06 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 7:46:07 PM: Searcher found 0 results in 99.7305 ms
+[3] 7:46:07 PM:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 7:46:07 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 7:46:07 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 7:46:07 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 7:46:07 PM:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 7:46:07 PM:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 7:46:07 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 7:46:11 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 7:46:12 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:12 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 7:46:12 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:12 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 7:46:12 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:12 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 7:46:12 PM:  ShowStatusInfo: 'Ready'
+[4] 7:46:12 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 7:46:12 PM:  ShowStatusInfo: 'Refresh all finished'
+[0] 7:46:12 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 7:46:12 PM: OpenWorkspace took 00:00:07.4836723 to finish
+[4] 7:46:17 PM:  ShowStatusInfo: 'Ready'
+[3] 7:48:00 PM: Closing Workspace!
+[3] 7:48:00 PM: Log closed!
