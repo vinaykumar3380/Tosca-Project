@@ -1,0 +1,120 @@
+[3] 8:18:43 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[3] 8:18:43 PM: Log level: 4
+[3] 8:18:43 PM: Release: 15.0.0.836
+[3] 8:18:45 PM: No service discovery configured.
+[3] 8:18:45 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 8:18:45 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 8:18:45 PM: Searcher found 0 results in 114.5937 ms
+[3] 8:18:45 PM:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 8:18:45 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 8:18:45 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 8:18:45 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 8:18:45 PM:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 8:18:45 PM:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 8:18:45 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[4] 8:18:49 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:18:49 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:49 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:18:49 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:49 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:18:49 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:49 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:18:49 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:49 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:18:50 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:50 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:18:51 PM:  ShowStatusInfo: 'Refresh all finished'
+[0] 8:18:51 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 8:18:51 PM: OpenWorkspace took 00:00:08.0312873 to finish
+[4] 8:18:56 PM:  ShowStatusInfo: 'Ready'
+[4] 8:18:56 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:18:59 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:00 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:01 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:01 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:03 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:03 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:08 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:24 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:27 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:27 PM:  ShowStatusInfo: 'Ready'
+[3] 8:19:30 PM: Task 'Create Test configuration parameter' started on '/Execution/ExecutionLists/<New ExecutionList>_1'
+[4] 8:19:30 PM:  ShowStatusInfo: 'Create Test configuration parameter'
+[4] 8:19:30 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:30 PM:  ShowStatusInfo: 'Test configuration parameter finished'
+[3] 8:19:30 PM: Task 'Create Test configuration parameter' finished
+[4] 8:19:35 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:19:38 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:38 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:41 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:41 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:19:45 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:19:45 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:19:45 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:19:45 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:19:45 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:19:45 PM:  ShowStatusInfo: 'Ready'
+[4] 8:19:45 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:19:51 PM:  ShowStatusInfo: 'Saving ...'
+[3] 8:19:51 PM:  Save started!
+[3] 8:19:51 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:19:51 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:19:51 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:19:51 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:19:51 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:19:51 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:19:52 PM:  Save finished!
+[4] 8:19:52 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 8:19:52 PM:  ShowStatusInfo: 'Ready'
+[3] 8:19:59 PM: Closing Workspace!
+[3] 8:19:59 PM: Log closed!

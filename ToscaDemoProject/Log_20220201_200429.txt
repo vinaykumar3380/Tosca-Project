@@ -1,0 +1,238 @@
+[3] 8:04:29 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[3] 8:04:29 PM: Log level: 4
+[3] 8:04:29 PM: Release: 15.0.0.836
+[3] 8:04:31 PM: No service discovery configured.
+[3] 8:04:31 PM:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:04:31 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 8:04:31 PM:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 8:04:31 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 8:04:31 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 8:04:31 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 8:04:32 PM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 8:04:32 PM: Searcher found 0 results in 104.6963 ms
+[3] 8:04:32 PM:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 8:04:32 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 8:04:32 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 8:04:32 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 8:04:32 PM:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 8:04:32 PM:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 8:04:32 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\ToscaDemoProject\ToscaDemoProject.tws'
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:04:36 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:04:36 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:04:36 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:04:36 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:04:36 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:04:37 PM:  ShowStatusInfo: 'Refresh all finished'
+[0] 8:04:37 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 8:04:37 PM: OpenWorkspace took 00:00:07.8788120 to finish
+[4] 8:04:42 PM:  ShowStatusInfo: 'Ready'
+[4] 8:04:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:04:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:03 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:08 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:21 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:25 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:25 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:28 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:32 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:32 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:48 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:48 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:50 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:05:50 PM:  ShowStatusInfo: 'Ready'
+[3] 8:05:53 PM: Task 'Jump to TestCase' started on '/Execution/ExecutionLists/<New ExecutionList>_1/ Demo Web Shop Test/TC01-Open Application'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Jump to TestCase'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Jump to TestCase finalizing ... '
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:05:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:05:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:05:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:05:53 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:05:53 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:05:53 PM:  ShowStatusInfo: 'Jump to TestCase finished'
+[3] 8:05:53 PM: Task 'Jump to TestCase' finished
+[4] 8:05:56 PM:  ShowStatusInfo: 'Ready'
+[4] 8:05:56 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:06:01 PM:  ShowStatusInfo: 'Ready'
+[4] 8:08:19 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:08:19 PM:  ShowStatusInfo: 'Ready'
+[4] 8:08:23 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:08:28 PM:  ShowStatusInfo: 'Ready'
+[4] 8:08:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:08:30 PM:  ShowStatusInfo: 'Ready'
+[4] 8:08:30 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:08:32 PM:  ShowStatusInfo: 'Ready'
+[4] 8:08:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:08:34 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:12 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:14 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:20 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:20 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:23 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:09:23 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:23 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:09:23 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:23 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:09:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:24 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:09:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:09:24 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:09:29 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:34 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:34 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:35 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:40 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:41 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:43 PM:  ShowStatusInfo: 'Saving ...'
+[3] 8:09:43 PM:  Save started!
+[3] 8:09:43 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:09:43 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:09:43 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:09:43 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:09:43 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:09:43 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:09:43 PM:  Save finished!
+[4] 8:09:43 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 8:09:43 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:50 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:55 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:55 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:55 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:57 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:57 PM:  ShowStatusInfo: 'Ready'
+[4] 8:09:59 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:09:59 PM:  ShowStatusInfo: 'Ready'
+[4] 8:10:05 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:10:06 PM:  ShowStatusInfo: 'Ready'
+[3] 8:10:12 PM: Task 'Run' started on '/Execution/ExecutionLists'
+[4] 8:10:12 PM:  ShowStatusInfo: 'Run'
+[4] 8:10:14 PM:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 8:10:14 PM:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 8:10:18 PM:  ShowStatusInfo: 'Execution Running ...'
+[4] 8:12:18 PM:  ShowStatusInfo: 'Processing execution results ...'
+[3] 8:12:18 PM: AgentResults count: 27
+[3] 8:12:21 PM: executionResponses count: 27
+[4] 8:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Run finalizing ... '
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'ToscaDemoProject''
+[4] 8:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh navigation view 'Admin''
+[4] 8:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'ToscaDemoProject''
+[4] 8:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh detail view 'Admin''
+[4] 8:12:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 8:12:24 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 8:12:24 PM:  ShowStatusInfo: 'Run finished'
+[3] 8:12:24 PM: Task 'Run' finished
+[4] 8:12:28 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:28 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:28 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:31 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:33 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:33 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:35 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:35 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:38 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:40 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:42 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:42 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:49 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:49 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:52 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:52 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:54 PM:  ShowStatusInfo: '1 object selected'
+[3] 8:12:54 PM: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 8:12:54 PM: Searcher found 0 results in 2.991 ms
+[3] 8:12:54 PM: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 8:12:54 PM: Searcher found 0 results in 0 ms
+[4] 8:12:54 PM:  ShowStatusInfo: 'Ready'
+[3] 8:12:57 PM: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 8:12:57 PM: Searcher found 0 results in 0 ms
+[4] 8:12:57 PM:  ShowStatusInfo: '1 object selected'
+[3] 8:12:57 PM: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 8:12:57 PM: Searcher found 0 results in 0.9974 ms
+[4] 8:12:57 PM:  ShowStatusInfo: 'Ready'
+[4] 8:12:59 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:12:59 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:08 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:08 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:10 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:10 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:13 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:21 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:21 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:22 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:23 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:23 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:24 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:24 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:27 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:27 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:29 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:32 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:32 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:33 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:33 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:36 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:36 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:38 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:38 PM:  ShowStatusInfo: '1 object selected'
+[4] 8:13:43 PM:  ShowStatusInfo: 'Ready'
+[4] 8:13:44 PM:  ShowStatusInfo: 'Saving ...'
+[3] 8:13:44 PM:  Save started!
+[3] 8:13:44 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 8:13:44 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 8:13:44 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 8:13:44 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 8:13:44 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 8:13:44 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 8:13:45 PM:  Save finished!
+[4] 8:13:45 PM:  ShowStatusInfo: 'Saved successfully'
+[4] 8:13:45 PM:  ShowStatusInfo: 'Ready'
+[3] 8:13:51 PM: Closing Workspace!
+[3] 8:13:51 PM: Log closed!
